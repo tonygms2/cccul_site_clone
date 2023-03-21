@@ -17,7 +17,7 @@ function App() {
   return (
     <div className="App">
       <Routes>
-        <Route path="/" element={<Home />}></Route>
+        <Route path="/cccul_site_clone" element={<Home />}></Route>
         <Route path="/services" element={<Services />}></Route>
         <Route path="/loans" element={<Loans />}></Route>
         <Route path="/projects" element={<Projects />} />
