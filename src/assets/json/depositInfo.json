@@ -1,0 +1,78 @@
+[
+  {
+    "depositType": "Savings",
+    "description": "\"Savings Account\" is mandatory for all other products in \"Dhaka Credit\".."
+  },
+  {
+    "depositType": "Credit Account",
+    "description": "This account is for self-reliant members for the union.."
+  },
+  {
+    "depositType": "STD Account",
+    "description": "STD Account provides interest to the depositors twice a year…"
+  },
+  {
+    "depositType": "Bee-Savers",
+    "description": "Children aged 1 day to 12 years old can participate as Bee Savers…"
+  },
+  {
+    "depositType": "Smart Savers",
+    "description": "This account promotes savings habit among teenagers.."
+  },
+  {
+    "depositType": "Education Savings",
+    "description": "Helps member meet the educational expenses.."
+  },
+  {
+    "depositType": "LTSD Account",
+    "description": "\"LTSD\" helps depositors earn high interest rate for fixed rate…."
+  },
+  {
+    "depositType": "Monthly Savings",
+    "description": "\"Monthly Savings\" prepares for any future requirements"
+  },
+  {
+    "depositType": "Festival Savings",
+    "description": "Enjoy the festive season without worrying about the expenses.."
+  },
+  {
+    "depositType": "Troimashik Savings",
+    "description": "This account offers quarterly interest and requires a minimum deposit of 1 lakh."
+  },
+  {
+    "depositType": "Aged Savings",
+    "description": "This savings scheme ensures financial security after retirement… "
+  },
+  {
+    "depositType": "Double Deposit",
+    "description": "Provides double benefits for the depositors with certain period…"
+  },
+  {
+    "depositType": "Millionair Deposit",
+    "description": "Become a millionaire within a certain preiod with this scheme.."
+  },
+  {
+    "depositType": "Housing Deposit",
+    "description": "This scheme can make your dream of owning a House come true…"
+  },
+  {
+    "depositType": "Marriage Deposits",
+    "description": "Perfect for dealing with marriage cost for young couple &amp; parents…"
+  },
+  {
+    "depositType": "Kotipoti Deposit",
+    "description": "Premium deposit scheme for members to become \"KotiPoti Deposit\"…"
+  },
+  {
+    "depositType": "Hospital Bond",
+    "description": "Become a part of \"Divine Mercy General Hospital Bond\"…."
+  },
+  {
+    "depositType": "D.C H.C.S",
+    "description": "\"Dhaka Credit Health Care Scheme\" is for everyone…"
+  },
+  {
+    "depositType": "Pension Benefit",
+    "description": "\"Pension Benefit Scheme\" for future retirement…"
+  }
+]

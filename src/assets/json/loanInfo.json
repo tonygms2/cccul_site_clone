@@ -1,0 +1,157 @@
+[
+  {
+    "loanType": "General Loan",
+    "description": "Any member can take loan for various purposes…..",
+    "route": "/loan-products/general-Loan/"
+  },
+  {
+    "loanType": "Business Loan",
+    "description": "\"Business Loan\" provides financial assistance to businesses….",
+    "route": "/loan-products/business-loan/"
+  },
+  {
+    "loanType": "SMB Loan",
+    "description": "Small & medium size business requires this loan the most...",
+    "route": "/loan-products/smd-loan/"
+  },
+  {
+    "loanType": "Car Loan",
+    "description": "Own the car of your dream with DCs Car Loan …",
+    "route": "/loan-products/car-loan/"
+  },
+  {
+    "loanType": "Metro H.Building",
+    "description": "Build a house with DC's Metropolitan House Building Loan…",
+    "route": "/loan-products/metro-house-building-loan/"
+  },
+  {
+    "loanType": "Flat Purchase",
+    "description": "Owning a dream flat DC's Flat Purchase Loan…",
+    "route": "/loan-products/flat-purchase-loan/"
+  },
+  {
+    "loanType": "House Building Loan",
+    "description": "Own a high rise building with DC's House Building Loan…",
+    "route": "/loan-products/house-building-loan/"
+  },
+  {
+    "loanType": "Credit Ceiling Loan",
+    "description": "Business 'CC Loan' is taken to overcome different financial crisis…",
+    "route": "/loan-products/credit-ceiling-loan/"
+  },
+  {
+    "loanType": "Industrial Loan",
+    "description": "Industrial loan' supports current and future entrepreneurs…",
+    "route": "/loan-products/industrial-loan/"
+  },
+  {
+    "loanType": "Capacity Based Loan",
+    "description": "The loan is for financially solvent members of the union…",
+    "route": "/loan-products/competency-based-loan/"
+  },
+  {
+    "loanType": "General CC Loan",
+    "description": "This loan is designed to improve the members standard of living…",
+    "route": "/loan-products/general-cc-loan/"
+  },
+  {
+    "loanType": "For Going Abroad",
+    "description": "Provide members with financial support for going abroad…",
+    "route": "/loan-products/going-abroad-loan/"
+  },
+  {
+    "loanType": "Solvency for Higher Education",
+    "description": "Students can utilize this loan for studying abroad…",
+    "route": "/loan-products/solvency-higher-edu/"
+  },
+  {
+    "loanType": "Top Up",
+    "description": "Extra financial boost on 'Top Up' other loans…",
+    "route": "/loan-products/top-up-loan/"
+  },
+  {
+    "loanType": "Bill Pay Loan",
+    "description": "This loan will help members overcome bill expenses…",
+    "route": "/loan-products/bill-pay-loan/"
+  },
+  {
+    "loanType": "Higher Education",
+    "description": "Provides financial support for educational purpose…",
+    "route": "/loan-products/higher-education-loan/"
+  },
+  {
+    "loanType": "Higher Education Support",
+    "description": "This loan provides the maximum loan of BDT 15 Lac…",
+    "route": "/loan-products/higher-education-support-loan/"
+  },
+  {
+    "loanType": "Professional Training ",
+    "description": "This loan is taken to cover professional training cost…",
+    "route": "/loan-products/professional-training-loan/"
+  },
+  {
+    "loanType": "Consumer Loan",
+    "description": "This loan helps improve members standard of living…",
+    "route": "/loan-products/consumer-loan/"
+  },
+  {
+    "loanType": "D.C Gym Loan",
+    "description": "Lead a healthy lifestyle with Dhaka Credit's Gym Loan…",
+    "route": "/loan-products/gym-loan/"
+  },
+  {
+    "loanType": "Loan Against LTSD",
+    "description": "Any member can take loan against their 'LTSD'",
+    "route": "/loan-products/loan-against-ltsd/"
+  },
+  {
+    "loanType": "Open Installment",
+    "description": "Depositors can take Loan against their…",
+    "route": "/loan-products/open-installment-loan/"
+  },
+  {
+    "loanType": "Own Share Loan",
+    "description": "The members can take against their own share…",
+    "route": "/loan-products/own-share-loan/"
+  },
+  {
+    "loanType": "Secured Over Draft",
+    "description": "A savings depositor can make loan against long term savings…",
+    "route": "/loan-products/secured-over-draft-loan/"
+  },
+  {
+    "loanType": "D.C Flat Purchase Loan",
+    "description": "Own a D.C built flat with 'D.C Flat Purchase Loan'…",
+    "route": "/loan-products/dc-flat-purchase-loan/"
+  },
+  {
+    "loanType": "Emergency Loan",
+    "description": "Emergency Loan' is for urgent treatment that may arise…",
+    "route": "/loan-products/emergency-loan/"
+  },
+  {
+    "loanType": "Competency Based Loan",
+    "description": "Based on the financial condition &amp; ability to repay…",
+    "route": "/loan-products/competency-based-loan/"
+  },
+  {
+    "loanType": "Instant Loan",
+    "description": "Instant loan to meet the urgent financial needs…",
+    "route": "/loan-products/instant-loan/"
+  },
+  {
+    "loanType": "Entrepreneur Loan",
+    "description": "This loan is for financial needs for businessmen…",
+    "route": "/loan-products/entrepreneur-loan/"
+  },
+  {
+    "loanType": "Double Loan on FDR",
+    "description": "Double loan against the member's fixed deposit…",
+    "route": "/loan-products/double-loan-on-fixed-deposit/"
+  },
+  {
+    "loanType": "Various other Loans",
+    "description": "Rest of the loan facilities are metioned here…",
+    "route": "/loan-products/various-other-loans/"
+  }
+]
